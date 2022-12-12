@@ -9,7 +9,7 @@ A Personalized Budgeting & Tracking App
 - [Features](#features)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
-- [Contributions](#contributions)
+- [Contributors](#contributors)
 
 ## Speedcode Video
 
@@ -50,7 +50,7 @@ External Packages and Dependecies:
 
 ![Bread Butter](https://user-images.githubusercontent.com/106251683/206959710-1133da60-39dc-41b2-8156-2c35eb6aefb4.png)
   
-## Contributions
+## Contributors
 
 - Bonifacio Ronald 
 
