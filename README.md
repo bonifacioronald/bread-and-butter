@@ -52,5 +52,4 @@ External Packages and Dependecies:
   
 ## Contributors
 
-- Bonifacio Ronald 
-
+- [Bonifacio Ronald](https://github.com/bonifacioronald)
