@@ -1,16 +1,39 @@
-# budget_tracking_app
+# Bread&Butter
 
-A new Flutter project.
+A Personalized Budgeting & Tracking App
+
+## Speedcode Video
+
+https://www.instagram.com/p/ClLHLrAjEKK/
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Download the source code
+2. Open the source code on your IDE
+3. Run the source code on any physical / virtual device, [online documentation](https://docs.flutter.dev/)
+4. Start navigating and using the application's features.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Google Sheet Database Intgration 
+- Add A New Transaction (Expense / Income)
+- View Recent & All Transactions Within A Month
+- Set A Monthly Budget
+- Keep Track of Remaining Budget
+- View Transactions' Insight Within A Month
+- Automatically Reset Budget Every Month
+- Maintain Previous Months Data
+- Change Currencies
+- Open Google Sheet Directly From Application
+- Clean & Modern Dark Mode UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+
+External Packages and Dependecies:
+- Gsheets with Dart (Backend API) - [gsheets: ^0.4.2](https://pub.dev/packages/gsheets) 
+- Provider (State Management) - [provider: ^6.0.4](https://pub.dev/packages/provider)
+- URL Launcher (Launch Google Sheet) - [url_launcher: ^6.1.7](https://pub.dev/packages/url_launcher)
+- Intl (DateTime Formatting) - [intl: ^0.17.0](https://pub.dev/packages/gsheets)
+- Draggable Bottom Sheet - [draggable_bottom_sheet: ^1.0.2](https://pub.dev/packages/draggable_bottom_sheet) 
+- Toggle Tab (Custom Bottom Navigation Bar) - [flutter_toggle_tab: ^1.2.0](https://pub.dev/packages/flutter_toggle_tab)
+  
