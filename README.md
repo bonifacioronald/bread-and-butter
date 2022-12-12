@@ -2,6 +2,15 @@
 
 A Personalized Budgeting & Tracking App
 
+## Table Of Contents
+
+- [Speedcode Video](#speedcode-video)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Screenshots](#screenshots)
+- [Contributions](#contributions)
+
 ## Speedcode Video
 
 https://www.instagram.com/p/ClLHLrAjEKK/
@@ -36,6 +45,10 @@ External Packages and Dependecies:
 - Intl (DateTime Formatting) - [intl: ^0.17.0](https://pub.dev/packages/gsheets)
 - Draggable Bottom Sheet - [draggable_bottom_sheet: ^1.0.2](https://pub.dev/packages/draggable_bottom_sheet) 
 - Toggle Tab (Custom Bottom Navigation Bar) - [flutter_toggle_tab: ^1.2.0](https://pub.dev/packages/flutter_toggle_tab)
+
+## Screenshots
+
+![Bread Butter](https://user-images.githubusercontent.com/106251683/206959710-1133da60-39dc-41b2-8156-2c35eb6aefb4.png)
   
 ## Contributions
 
