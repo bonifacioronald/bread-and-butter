@@ -10,7 +10,7 @@ https://www.instagram.com/p/ClLHLrAjEKK/
 
 1. Download the source code
 2. Open the source code on your IDE
-3. Run the source code on any physical / virtual device, [online documentation](https://docs.flutter.dev/)
+3. Run the source code on any physical / virtual device, [online documentation](https://www.fluttercampus.com/tutorial/4/run-first-application/)
 4. Start navigating and using the application's features.
 
 ## Features
@@ -37,3 +37,7 @@ External Packages and Dependecies:
 - Draggable Bottom Sheet - [draggable_bottom_sheet: ^1.0.2](https://pub.dev/packages/draggable_bottom_sheet) 
 - Toggle Tab (Custom Bottom Navigation Bar) - [flutter_toggle_tab: ^1.2.0](https://pub.dev/packages/flutter_toggle_tab)
   
+## Contributions
+
+- Bonifacio Ronald 
+
